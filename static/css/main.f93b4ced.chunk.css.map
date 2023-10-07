@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,KACE,SAAqB,CACtB,OAGC,WAAqB,CACtB,MAGC,UAAqB","file":"main.f93b4ced.chunk.css","sourcesContent":["// styles go here\n.red {\n  color: rgb(255, 0, 0);\n}\n\n.green {\n  color: rgb(0, 128, 0);\n}\n\n.blue {\n  color: rgb(0, 0, 255);\n}\n"]}
